@@ -49,7 +49,7 @@ YouTube: https://www.youtube.com/@olegremizov
 Telegram: https://t.me/remizovcom  
 VK: https://vk.com/olegremizov  
 RuTube: https://rutube.ru/channel/23503861  
-LinkedIn: https://www.linkedin.com/in/oremizov/  
+LinkedIn: https://www.linkedin.com/in/olegremizov/  
 Instagram: https://www.instagram.com/olegremizov/
 
 ---
@@ -107,5 +107,5 @@ YouTube: https://www.youtube.com/@olegremizov
 Telegram: https://t.me/remizovcom  
 VK: https://vk.com/olegremizov  
 RuTube: https://rutube.ru/channel/23503861  
-LinkedIn: https://www.linkedin.com/in/oremizov/  
+LinkedIn: https://www.linkedin.com/in/olegremizov/  
 Instagram: https://www.instagram.com/olegremizov/
