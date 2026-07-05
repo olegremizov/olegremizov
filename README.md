@@ -1,6 +1,6 @@
 # Oleg Remizov
 
-Aviation Blogger • Civil Aviation • Passenger Experience • Digital Innovation • AI
+Aviation Blogger, Civil Aviation, Passenger Experience, Digital Innovation, AI
 
 Welcome to my GitHub profile.
 My name is Oleg Remizov. I am an aviation blogger, content creator and founder of remizov.com — a personal project about commercial aviation, airlines, airports, passenger experience and travel.
@@ -56,7 +56,7 @@ Instagram: https://www.instagram.com/olegremizov/
 
 # Олег Ремизов
 
-Авиаблогер • Гражданская авиация • Пассажирский опыт • Digital Innovation • AI
+Авиаблогер, Гражданская авиация, Пассажирский опыт, Digital Innovation, AI
 
 Добро пожаловать в мой GitHub-профиль.
 
